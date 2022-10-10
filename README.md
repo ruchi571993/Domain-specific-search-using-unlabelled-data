@@ -6,7 +6,6 @@
 
 ![Screenshot 2022-10-10 102548](https://user-images.githubusercontent.com/37810786/194901813-2451bd69-1844-4ba5-904f-8784aeb31027.jpg)
 
-![4](https://user-images.githubusercontent.com/37810786/194918341-326dd4a7-6173-49c7-8cba-c1292a4e9c8b.jpg)
 
 References:
 https://www.sciencedirect.com/topics/computer-science/domain-adaptation
