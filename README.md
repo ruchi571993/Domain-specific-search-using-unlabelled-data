@@ -6,3 +6,4 @@
 
 ![Screenshot 2022-10-10 102548](https://user-images.githubusercontent.com/37810786/194901813-2451bd69-1844-4ba5-904f-8784aeb31027.jpg)
 
+[SpaceScienceIR.pptx](https://github.com/ruchi571993/Domain-specific-search-using-unlabelled-data/files/9747606/SpaceScienceIR.pptx)
