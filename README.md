@@ -1,9 +1,9 @@
-![Screenshot 2022-10-03 171448](https://user-images.githubusercontent.com/37810786/193695577-66fa2cb4-72d4-4f50-9998-176a746faee3.jpg)
+![1](https://user-images.githubusercontent.com/37810786/194917750-39b17acc-fc19-46ee-aab2-ef3c420ea8f8.jpg)
 
-![Screenshot 2022-10-03 173804](https://user-images.githubusercontent.com/37810786/193698577-bb152ad1-3536-4cee-9d66-216e6c43680d.jpg)
+![2](https://user-images.githubusercontent.com/37810786/194917845-6876c8ef-fee2-4a2a-9063-ccaa28d74596.jpg)
 
-![Screenshot 2022-10-03 171649](https://user-images.githubusercontent.com/37810786/193696313-8d0ff6f2-ad51-40ff-92f1-43d83bfce52e.jpg)
+![3](https://user-images.githubusercontent.com/37810786/194917866-ef32ef69-8cbb-4c97-9c12-b7637f3ce40b.jpg)
 
 ![Screenshot 2022-10-10 102548](https://user-images.githubusercontent.com/37810786/194901813-2451bd69-1844-4ba5-904f-8784aeb31027.jpg)
 
-[SpaceScienceIR.pptx](https://github.com/ruchi571993/Domain-specific-search-using-unlabelled-data/files/9747606/SpaceScienceIR.pptx)
+
